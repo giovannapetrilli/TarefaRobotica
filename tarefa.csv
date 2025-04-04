@@ -1,0 +1,8 @@
+Tarefa,Tipo,Dado
+Abrir Navegador,click,navegador_icone
+Digitar URL,texto,www.google.com
+Pressionar Enter,tecla,enter
+Esperar 3 segundos,espera,3
+Digitar pesquisa,texto,Pesquisa impacta
+Pressionar Enter,tecla,enter
+Esperar 5 segundos,espera,5
